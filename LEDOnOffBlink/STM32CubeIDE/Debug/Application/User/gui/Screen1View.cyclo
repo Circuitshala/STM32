@@ -1,0 +1,11 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+Screen1View.cpp:14:6:virtual void Screen1View::tearDownScreen()	1
+Screen1View.cpp:30:6:virtual void Screen1View::LED_Blink()	1
+Screen1View.cpp:19:6:virtual void Screen1View::LED_On()	1
+Screen1View.cpp:25:6:virtual void Screen1View::LED_Off()	1
+Screen1View.hpp:11:13:Screen1View::~Screen1View()	1
+Screen1View.hpp:11:13:virtual Screen1View::~Screen1View()	1
+Screen1View.cpp:4:1:Screen1View::Screen1View()	1
+Screen1View.cpp:9:6:virtual void Screen1View::setupScreen()	1
